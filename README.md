@@ -11,8 +11,6 @@ biomedical instrumentation and health tracking systems.
 
 Amplification of weak bio-signals (heartbeat pulses)
 
-Removal of low-frequency baseline drift (below 0.5 Hz)
-
 Filtering of high-frequency noise (above 50 Hz)
 
 Visualization of the processed signal
